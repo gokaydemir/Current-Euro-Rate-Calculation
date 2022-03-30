@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(58, 121, 214);
+}
+h1{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+}
+#doviz{
+    margin-right: 10vh;
+}
+input{
+    outline: none;
+    padding: .5vh;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 1vh;
+}
+select{
+    outline: none;
+    padding: .5vh;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 1vh;
+}
